@@ -1,3 +1,3 @@
 <?php
-    header('Location: http://paraffin-tutorials.ir');
+    header('Location: https://paraffin-tutorials.ir');
 ?>
